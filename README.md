@@ -38,7 +38,7 @@ Pandas, NumPy – Data manipulation
 Matplotlib, Seaborn – Data visualization
 
 ## Project Link
-
+https://github.com/nisha2021-vaanya/Blinkit_Sales/tree/main
 
 ## Future Improvements
 Predictive modeling for sales forecasting
